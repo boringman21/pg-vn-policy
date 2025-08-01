@@ -99,6 +99,30 @@
 
 ## Kết quả đạt được
 
+### Nghị quyết 68-NQ/TW (Tháng 5/2025)
+- **Ngày 4/5/2025**: Bộ Chính trị ban hành Nghị quyết 68, công nhận khu vực tư nhân là động lực trung tâm của nền kinh tế
+- **Mục tiêu 2030**: 
+  * Đăng ký ít nhất 2 triệu doanh nghiệp tư nhân (3 triệu vào năm 2045)
+  * Chiếm khoảng 60% nền kinh tế quốc gia và tạo ra 85% việc làm
+  * Có hơn 20 doanh nghiệp Việt Nam lớn tham gia chuỗi cung ứng toàn cầu
+  * Tăng năng suất lao động khoảng 9% mỗi năm
+
+### Nghị quyết 198 và 139 (Tháng 5/2025)
+#### Ưu đãi thuế và phí
+- **Miễn thuế TNDN** tối đa 2 năm, tiếp theo giảm 50% trong 4 năm cho startup sáng tạo
+- **Hỗ trợ quỹ đầu tư** khuyến khích đổi mới sáng tạo
+
+#### Cải cách thể chế
+- **Bộ Tài chính**: Rà soát giảm các ngành nghề kinh doanh có điều kiện theo Luật Đầu tư trước 31/12/2026
+- **Bộ Công thương**: Nâng cao hiệu quả Hội đồng Cạnh tranh Quốc gia, sửa đổi Nghị định 75/2019/NĐ-CP để giải quyết vi phạm cạnh tranh vào năm 2025
+- **Bộ Nội vụ**: Làm rõ trách nhiệm lãnh đạo và cơ chế miễn trách nhiệm cho những người bị tổn thất do rủi ro khách quan theo Luật Cán bộ, Công chức (2025-2026)
+- **Bộ Tư pháp**: Xem xét Luật Xử lý vi phạm hành chính và sửa đổi Luật Phá sản (2026-2027)
+
+### Kết quả đầu tư công (2025)
+- **Tăng trưởng giải ngân**: 9% so với cùng kỳ năm trước trong 4 tháng đầu 2025
+- **Đạt 14%** mục tiêu hàng năm, đảo ngược xu hướng giảm 11% trong Q1
+- **Luật Đầu tư công** và **Luật PPP** sửa đổi có hiệu lực từ tháng 1/2025
+
 ### Về chỉ số kinh tế
 - Số doanh nghiệp thành lập mới tháng 6/2025: hơn 24 nghìn (mức cao kỷ lục)
 - 6 tháng đầu 2025: 152,7 nghìn doanh nghiệp ra nhập thị trường

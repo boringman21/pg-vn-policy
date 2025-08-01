@@ -1,33 +1,52 @@
-# 🇻🇳 Nghiên cứu Chính sách Chính trị Việt Nam
+# 🇻🇳 Nghiên cứu Chính sách Chính trị Việt Nam 2025
 
-## 🎯 Giới thiệu Repository
-Repository này được thiết kế để nghiên cứu, phân tích và theo dõi các chính sách chính trị ở Việt Nam bằng Obsidian Vault với thông tin cập nhật năm 2025.
+##### 🚩 Đảng Cộng sản Việt N### 📈 [[06-Data-Sources]] - Nguồn dữ liệu
+- [[06-Data-Sources/Economic-Statistics-2025|Thống kê kinh tế 2025]]
+- [[06-Data-Sources/Economic-Statistics-2025-Updated|Dữ liệu kinh tế cập nhật mới nhất 2025]] 🆕⭐⭐
+- [[06-Data-Sources/Vietnam-AI-Global-Ranking-2025|Xếp hạng AI toàn cầu Việt Nam 2025]]
+- [[06-Data-Sources/FDI-Statistics|Thống kê đầu tư trực tiếp nước ngoài]]
+
+### 🔍 [[07-Analysis]] - Phân tích chuyên sâu
+- [[07-Analysis/First-Principle-Policy-Assessment-2025|Đánh giá chính sách theo First Principle 2025]] 🆕⭐⭐⭐
+- [[07-Analysis/Policy-Effectiveness-Metrics|Chỉ số hiệu quả chính sách]]
+- [[07-Analysis/Comparative-Analysis|Phân tích so sánh quốc tế]] [[03-Actors/Party/General-Secretary-Nguyen-Phu-Trong|Tổng Bí thư Nguyễn Phú Trọng (1944-2024)]] ⭐
+- [[03-Actors/Party/General-Secretary-To-Lam|Tổng Bí thư Tô Lâm (2024-nay)]] ⭐
+- [[03-Actors/Party/General-Secretary-To-Lam-Analysis-2025|Phân tích lãnh đạo Tô Lâm 2025]] �⭐⭐
+- [[03-Actors/Party/Politburo|Bộ Chính trị khóa XIII]] Giới thiệu Repository (Cập nhật mới nhất)
+Repository này được thiết kế để nghiên cứu, phân tích và theo dõi các chính sách chính trị ở Việt Nam bằng **First Principle Thinking**. Cập nhật thời thượng nhất tháng 7/2025 với các thông tin mới từ Nghị quyết 68-NQ/TW, Bamboo Diplomacy 2.0, và Digital Transformation Strategy.
+
+## 🌟 Highlights 2025
+- **Nghị quyết 68-NQ/TW**: Khu vực tư nhân trở thành động lực trung tâm (60% GDP by 2030)
+- **10 Comprehensive Strategic Partnerships**: Nhiều nhất thế giới, including US (2023)
+- **AI Strategy**: Việt Nam xếp hạng 6/40 về AI toàn cầu
+- **Tổng Bí thư Tô Lâm**: Lãnh đạo thế hệ mới từ 8/2024
 
 ## 📚 Mục lục chính
 
 ### 🏛️ [[01-Frameworks]] - Khung lý thuyết
 - [[01-Frameworks/Policy-Analysis-Framework|Khung phân tích chính sách]]
-- [[01-Frameworks/Political-System-VN|Hệ thống chính trị Việt Nam]]
-- [[01-Frameworks/Research-Methodology|Phương pháp nghiên cứu]]
+- [[01-Frameworks/First-Principle-Thinking-Policy-Analysis|First Principle Thinking trong nghiên cứu chính sách]] ⭐⭐⭐
+- [[07-Analysis/First-Principle-Policy-Assessment-2025|Đánh giá chính sách theo First Principle 2025]] 🆕⭐⭐
 
 ### 📊 [[02-Policies]] - Chính sách theo lĩnh vực
 
 #### 💰 Chính sách Kinh tế
 - [[02-Policies/Economic-Policy/Economic-Growth-Strategy-2025|Chiến lược tăng trưởng kinh tế 2025]] ⭐
-- [[02-Policies/Economic-Policy/Private-Sector-Development-2025|Nghị quyết 68-NQ/TW về phát triển kinh tế tư nhân]] ⭐
+- [[02-Policies/Economic-Policy/Private-Sector-Development-2025|Nghị quyết 68-NQ/TW về phát triển kinh tế tư nhân]] ⭐⭐⭐ 🆕
 - [[02-Policies/Economic-Policy/FDI-Policy|Chính sách FDI]]
 - [[02-Policies/Economic-Policy/SME-Support|Hỗ trợ doanh nghiệp nhỏ và vừa]]
 
 #### 🌐 Chính sách Đối ngoại  
+- [[02-Policies/Foreign-Policy/Bamboo-Diplomacy-2025-Updated|Ngoại giao Tre 2025: Thành công Vượt Bậc]] ⭐⭐⭐ 🆕
 - [[02-Policies/Foreign-Policy/Bamboo-Diplomacy|Ngoại giao Tre (Bamboo Diplomacy)]] ⭐
 - [[02-Policies/Foreign-Policy/ASEAN-Relations|Quan hệ ASEAN]]
-- [[02-Policies/Foreign-Policy/US-Vietnam-Relations|Quan hệ Việt-Mỹ]]
-- [[02-Policies/Foreign-Policy/China-Vietnam-Relations|Quan hệ Việt-Trung]]
+- [[02-Policies/Foreign-Policy/US-Vietnam-Relations|Quan hệ Việt-Mỹ CSP 2023]] 🆕
 
 #### 💻 Chính sách Số hóa
-- [[02-Policies/Digital-Policy/Digital-Transformation-AI-2025|Chuyển đổi số và AI 2025]] ⭐
+- [[02-Policies/Digital-Policy/Digital-Transformation-AI-2025|Chuyển đổi số và AI 2025]] ⭐⭐ 🔄
+- [[02-Policies/Digital-Policy/Digital-Technology-Industry-Law-2024|Luật Công nghiệp Công nghệ Số 2024]] ⭐⭐
 - [[02-Policies/Digital-Policy/Digital-Government|Chính phủ số]]
-- [[02-Policies/Digital-Policy/E-Commerce-Policy|Chính sách thương mại điện tử]]
+- [[02-Policies/Digital-Policy/AI-Legal-Framework-2025|Khung pháp lý AI có trách nhiệm]] 🆕
 
 #### 👥 Chính sách Xã hội
 - [[02-Policies/Social-Policy/Healthcare-Policy|Chính sách y tế]]
@@ -65,13 +84,14 @@ Repository này được thiết kế để nghiên cứu, phân tích và theo 
 - [[04-Timeline/Digital-Transformation-Timeline|Dòng thời gian chuyển đổi số]]
 
 ### 🔍 [[05-Case-Studies]] - Nghiên cứu trường hợp
-- [[05-Case-Studies/Economic-Breakthrough-H1-2025|Bứt phá kinh tế H1/2025]] ⭐⭐
-- [[05-Case-Studies/Administrative-Reform-Revolution-2025|Cách mạng cải cách hành chính 2025]] ⭐⭐
+- [[05-Case-Studies/Economic-Breakthrough-H1-2025-Updated|Bứt phá kinh tế H1/2025]] ⭐⭐⭐
+- [[05-Case-Studies/Administrative-Reform-Revolution-2025-Updated|Cách mạng cải cách hành chính 2025]] ⭐⭐⭐
 - [[05-Case-Studies/Economic-Growth-2024-2025|Tăng trưởng kinh tế 2024-2025]]
 - [[05-Case-Studies/Bamboo-Diplomacy-Success|Thành công của ngoại giao tre]]
 
 ### 📊 [[06-Data-Sources]] - Nguồn dữ liệu
 - [[06-Data-Sources/Economic-Statistics-2025|Thống kê kinh tế 2025]] ⭐⭐
+- [[06-Data-Sources/Vietnam-AI-Global-Ranking-2025|Việt Nam xếp hạng 6/40 về AI toàn cầu]] ⭐⭐⭐
 - [[06-Data-Sources/Digital-Statistics|Thống kê chuyển đổi số]]
 - [[06-Data-Sources/Government-Reports|Báo cáo chính phủ]]
 - [[06-Data-Sources/International-Rankings|Xếp hạng quốc tế]]
@@ -89,15 +109,17 @@ Repository này được thiết kế để nghiên cứu, phân tích và theo 
 ## 🌟 Điểm nổi bật 2025
 
 ### 🚀 Các chính sách đột phá
-1. **Nghị quyết 68-NQ/TW**: Phát triển kinh tế tư nhân thành trụ cột quan trọng
-2. **Cải cách hành chính 2025**: Từ 63 xuống 34 đơn vị cấp tỉnh (1/7/2025)
-3. **Mục tiêu tăng trưởng 8%+**: Tham vọng đưa GDP vượt 500 tỷ USD  
-4. **Chính phủ số 24/7**: Cách mạng trong cung cấp dịch vụ công
+1. **Luật Công nghiệp Công nghệ Số**: Khung pháp lý toàn diện cho AI và công nghệ
+2. **Nghị quyết 68-NQ/TW**: Phát triển kinh tế tư nhân thành trụ cột quan trọng
+3. **Cải cách hành chính 2025**: Từ 63 xuống 34 đơn vị cấp tỉnh (1/7/2025)
+4. **Mục tiêu tăng trưởng 8%+**: Tham vọng đưa GDP vượt 500 tỷ USD  
+5. **Chính phủ số 24/7**: Cách mạng trong cung cấp dịch vụ công
 
 ### 🌐 Thành tựu đối ngoại
-- **7 Đối tác Chiến lược Toàn diện**: Mỹ, Trung Quốc, Nga, Ấn Độ, Hàn Quốc, Nhật Bản, Australia
-- **Ngoại giao tre**: Mô hình thành công cho các nước nhỏ
+- **10 Đối tác Chiến lược Toàn diện**: Mỹ, Trung Quốc, Nga, Ấn Độ, Hàn Quốc, Nhật Bản, Australia, Indonesia, Kazakhstan, Brazil
+- **Ngoại giao tre 2.0**: Mô hình thành công cho các nước nhỏ
 - **17 FTA**: Hội nhập kinh tế sâu rộng
+- **Xếp hạng AI**: Top 6/40 thế giới về chỉ số AI
 
 ### 💻 Chuyển đổi số toàn diện
 - **85 triệu** người dân có định danh số (VNeID)
@@ -181,8 +203,8 @@ Repository này được thiết kế để nghiên cứu, phân tích và theo 
 - Các bộ, ngành và địa phương
 - Nguồn tin quốc tế uy tín
 
-**Cập nhật lần cuối**: 13/01/2025
-**Phiên bản**: 2.0 (Cập nhật toàn diện 2025)
+**Cập nhật lần cuối**: 31/7/2025
+**Phiên bản**: 3.0 (Cập nhật First Principle Thinking & Thông tin mới nhất 2025)
 
 ---
 

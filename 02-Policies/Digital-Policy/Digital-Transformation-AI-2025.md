@@ -85,15 +85,22 @@
 - Thống kê, thuế thương mại điện tử
 
 ### 4. Trí tuệ Nhân tạo (AI)
-#### Chiến lược AI quốc gia
+#### Chiến lược AI quốc gia 2025 (Cập nhật mới nhất)
 - **Đầu tư**: 1 tỷ USD cho nghiên cứu AI đến 2030
 - **Nhân lực**: Đào tạo 500.000 chuyên gia AI
 - **Ứng dụng**: AI trong mọi lĩnh vực
+- **Khung pháp lý AI**: Chính phủ tập trung xây dựng nền tảng pháp lý cho AI có trách nhiệm
 
-#### Ứng dụng AI trong quản lý nhà nước
+#### Ứng dụng AI trong quản lý nhà nước (2025)
 - **Số hóa toàn diện** hoạt động quản lý
 - **Dự báo chính sách** dựa trên dữ liệu lớn
 - **Tự động hóa** quy trình hành chính
+- **Nâng cao năng lực số** của cán bộ công chức: UNDP khuyến nghị Việt Nam đầu tư vào nâng cao kỹ năng số và AI cho nhân viên chính phủ
+
+#### Khung kiến trúc Chính phủ số Việt Nam (Vietnam Digital Government Architecture Framework)
+- **Chủ trì**: Bộ Khoa học và Công nghệ
+- **Mục tiêu 2025**: Hoàn thiện khung pháp lý cho chuyển đổi số
+- **Tích hợp**: Đảm bảo tương thích và liên thông giữa các hệ thống
 
 ## Hạ tầng số
 
